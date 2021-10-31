@@ -1,0 +1,27 @@
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord Bot.exe
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord Bot.deps.json
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord Bot.runtimeconfig.json
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord Bot.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord Bot.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\ref\Discord Bot.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord Bot.pdb
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.AssemblyInfo.cs
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.csproj.CopyComplete
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\ref\Discord Bot.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.pdb
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\obj\Debug\net5.0\Discord Bot.genruntimeconfig.cache
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marco\source\repos\Discord Bot\Discord Bot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
